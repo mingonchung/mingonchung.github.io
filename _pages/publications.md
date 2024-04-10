@@ -47,7 +47,13 @@ Yang, H., A. Viña, J.A. Winkler, **M.G. Chung**, Q. Huang, Y. Dou, J. Zhang, W.
 
 <h3 style="text-align: center;">2020</h3>
 
-**Chung, M.G.**, K. Kapsar, K. Frank, and J. Liu. 2020. The spatial and temporal dynamics of global meat trade networks. _Scientific Reports_, 10: 16657. [doi](https://doi.org/10.1038/s41598-020-73591-2)
+<div class="citation-container">
+    **Chung, M.G.**, K. Kapsar, K. Frank, and J. Liu. 2020. The spatial and temporal dynamics of global meat trade networks. _Scientific Reports_, 10: 16657.
+    <a href="https://doi.org/10.1038/s41598-020-73591-2">[doi]</a>
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-020-73591-2" data-style="small_rectangle"></span>
+    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    <div data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41598-020-73591-2" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+</div>
 
 Xu, Z., Y. Li, S.N. Chau, T. Dietz, C. Li, L. Wan, J. Zhang, L. Zhang, Y. Li, **M.G. Chung**, and J. Liu. 2020. Impacts of international trade on achieving global sustainable development goals. _Nature Sustainability_. 3: 946-971. [doi](https://doi.org/10.1038/s41893-020-0572-z)
 
