@@ -8,22 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
-Contact Information
-======
+## Contact Information
 Environmental Data Science Innovation & Inclusion Lab\
 University of Colorado, Boulder\
 4001 Discovery Dr Suite S332\
 Boulder, CO 80303\
 [cv link]
 
-Education
-======
+## Education
 2020 Ph.D. Michian State University
 2013 M.S. Yonsei University
 2011 B.S. Yonsei University
 
-Acadenuc experience
-======
+## Acadenuc experience
 **University of Colorado, Boulder** | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)\
     Postdoctoral Associate    2024-present
 
