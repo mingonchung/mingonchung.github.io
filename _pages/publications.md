@@ -14,9 +14,13 @@ author_profile: true
 
 **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. [DOI](https://doi.org/10.1002/eco.2642)
 
-<span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div style="display: flex; align-items: center; justify-content: center;">
+ <span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span>
+ <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+ <div class="altmetric-embed" data-badge-type="4" data-doi="10.1002/eco.2642"></div>
+ <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+</div>
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="4" data-doi="10.1002/eco.2642"></div>
 <h3 style="text-align: center;">2023</h3>
 
 Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. _Ecological Indicators_. 154: 110638. [doi](https://doi.org/10.1016/j.ecolind.2023.110638)
