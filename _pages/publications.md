@@ -56,6 +56,8 @@ Yang, H., A. Vina, J.A. Winkler, **M.G. Chung**, Y. Dou, F. Wang, J. Zhang, Y. T
 ### <p style="text-align: center;">-2018</p>
 **Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. [doi](https://doi.org/10.3390/su10124576)
 
+<span data-badge-type="4" data-doi="10.3390/su10124576" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 **Chung, M.G.**, T. Dietz, and J. Liu. 2018. Global relationships between biodiversity and nature-based tourism in protected areas. _Ecosystem Services_, 34: 11-23. [doi](https://doi.org/10.1016/j.ecoser.2018.09.004)
 
 Liu, J., V. Hull, H.C.J. Godfray, D. Tilman, P. Gleick, H. Hoff, C. Pahl-Wostl, Z. Xu, **M.G. Chung**, J. Sun, and S. Li. 2018. Nexus approaches to global sustainable development. _Nature Sustainability_, 1: 466-476. [doi](https://doi.org/10.1038/s41893-018-0135-8)
