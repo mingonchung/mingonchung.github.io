@@ -61,7 +61,7 @@ Yang, H., A. Vina, J.A. Winkler, **M.G. Chung**, Y. Dou, F. Wang, J. Zhang, Y. T
 
 <h3 style="text-align: center;">-2018</h3>
 
-**Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. [doi](https://doi.org/10.3390/su10124576)
+**Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. [doi](https://doi.org/10.3390/su10124576) ![Altmetric](https://badges.altmetric.com/?size=15&score=100&doi=10.3390/su10124576) ![Dimensions](https://badge.dimensions.ai/details/doi/10.3390/su10124576.svg)
 
 **Chung, M.G.**, T. Dietz, and J. Liu. 2018. Global relationships between biodiversity and nature-based tourism in protected areas. _Ecosystem Services_, 34: 11-23. [doi](https://doi.org/10.1016/j.ecoser.2018.09.004)
 
