@@ -24,6 +24,24 @@ author_profile: true
 <div data-badge-popover="right" data-badge-type="4" data-doi="10.1002/eco.2642" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+<style>
+.altmetric-embed, .__dimensions_badge_embed__ {
+    float: left;
+    margin-left: 5px; /* Adjust the space between the DOI and the badges */
+}
+.parent-container {
+    overflow: auto; /* Clear the floats */
+}
+</style>
+
+<div class="parent-container">
+    **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. [DOI](https://doi.org/10.1002/eco.2642)
+
+    <div data-badge-popover="right" data-badge-type="4" data-doi="10.1002/eco.2642" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    <span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+
 <h3 style="text-align: center;">2023</h3>
 
 Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. _Ecological Indicators_. 154: 110638. [doi](https://doi.org/10.1016/j.ecolind.2023.110638)
