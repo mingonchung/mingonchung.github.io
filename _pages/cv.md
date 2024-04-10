@@ -22,10 +22,10 @@ Boulder, CO 80303<br>
 
 ## Acadenuc experience
 **University of Colorado, Boulder** | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)<br>
-&emsp Postdoctoral Associate  &emsp   2024-present
+    Postdoctoral Associate    2024-present
 
 **University of California, Merced** | [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)<br>
-&emsp    Postdoctoral Associate  &emsp   2020-2023
+    Postdoctoral Associate    2020-2023
 
 
 
