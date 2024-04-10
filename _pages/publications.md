@@ -10,10 +10,10 @@ author_profile: true
 
 
 ## Peer-Reviewed Journal Articles
-### <p style="text-align: center;">2024</p>
+### <p align="center">2024</p>
 **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. [doi](https://doi.org/10.1002/eco.2642)
 
-### <p style="text-align: center;">2023</p>
+### <p align="center">2023</p>
 Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. _Ecological Indicators_. 154: 110638. [doi](https://doi.org/10.1016/j.ecolind.2023.110638)
 
 Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh 2023. Using social media data and machine learning to map recreational ecosystem services. _Ecological indicators_. 154: 110606. [doi](https://doi.org/10.1016/j.ecolind.2023.110606)
@@ -22,10 +22,10 @@ Quesnel Seipp, K., T. Maurer, M. Elias, P. Saksa, C. Keske, K. Oleson, B. Egoh, 
 
 Guo, H., M. Goulden, **M.G. Chung**, C. Nyelele, B. Egoh, C. Keske, M. Conklin, and R. Bales. 2023. Valuing the benefits of forest restoration on enhancing hydropower and water supply in California’s Sierra Nevada. _Science of the Total Environment_. 876: 162836. [doi](https://doi.org/10.1016/j.scitotenv.2023.162836)
 
-### <p style="text-align: center;">2022</p>
+### <p align="center">2022</p>
 **Chung, M.G.** and J. Liu. 2022. International food trade benefits biodiversity and food security in low-income countries. _Nature Food_. 3: 349-355. [doi](https://doi.org/10.1002/10.1038/s43016-022-00499-7)
 
-### <p style="text-align: center;">2021</p>
+### <p align="center">2021</p>
 **Chung, M.G.**, K. Frank, Y. Pokhrel, T. Dietz, and J. Liu. 2021. Natural infrastructure in sustaining global urban freshwater ecosystem services. _Nature Sustainability_. 4: 1068-1075. [doi](https://doi.org/10.1038/s41893-021-00786-4)
 
 **Chung, M.G.**, Y. Li, and J. Liu. 2021. Global red and processed meat trade and non-communicable diseases. _BMJ Global Health_. 6:e006394. [doi](https://doi.org/10.1136/bmjgh-2021-006394)
@@ -34,7 +34,7 @@ Yang, H., A. Lingmann-Zielinska, Y. Dou, **M.G. Chung**, J. Zhang, J. Liu. 2021.
 
 Yang, H., A. Viña, J.A. Winkler, **M.G. Chung**, Q. Huang, Y. Dou, J. Zhang, W. McShea, M. Songer, and J. Liu. 2021. A global assessment of the impact of individual protected areas on preventing forest loss. _Science of the Total Environment_. 777: 145995. [doi](https://doi.org/10.1016/j.scitotenv.2021.145995)
 
-### <p style="text-align: center;">2020</p>
+### <p align="center">2020</p>
 **Chung, M.G.**, K. Kapsar, K. Frank, and J. Liu. 2020. The spatial and temporal dynamics of global meat trade networks. _Scientific Reports_, 10: 16657. [doi](https://doi.org/10.1038/s41598-020-73591-2)
 
 Xu, Z., Y. Li, S.N. Chau, T. Dietz, C. Li, L. Wan, J. Zhang, L. Zhang, Y. Li, **M.G. Chung**, and J. Liu. 2020. Impacts of international trade on achieving global sustainable development goals. _Nature Sustainability_. 3: 946-971. [doi](https://doi.org/10.1038/s41893-020-0572-z)
@@ -42,7 +42,7 @@ Xu, Z., Y. Li, S.N. Chau, T. Dietz, C. Li, L. Wan, J. Zhang, L. Zhang, Y. Li, **
 Zhao, Z., M. Cai, T. Connor, **M.G. Chung**, and J. Liu. 2020. Metacoupled tourism and wildlife translocations affect synergies and trade-offs among Sustainable Development Goals across spillover systems. _Sustainability_, 12: 7677. [doi](https://doi.org/10.3390/su12187677)
 Zhao, Z., M. Cai, F. Wang, J.A. Winkler, T. Connor, **M.G. Chung**, J. Zhang, H. Yang, Z. Xu, Y. Tang, Z. Ouyang, H. Zhang, and J. Liu. 2020. Synergies and tradeoffs among sustainable development goals across boundaries in a metacoupled world. _Science of the Total Evnrionment_, 751: 141749. [doi](https://doi.org/10.1016/j.scitotenv.2020.141749)
 
-### <p style="text-align: center;">2019</p>
+### <p align="center">2019</p>
 **Chung, M.G.**, A. Herzberger, K. Frank, and J. Liu. 2019. International tourism dynamics in a globalized world: A social network analysis approach. _Journal of Travel Research_, 59: 387-403. [doi](https://doi.org/10.1177/0047287519844834)
 
 **Chung, M.G.** and J. Liu. 2019. Telecoupled impacts of livestock trade on non-communicable diseases. _Globalization and Health_, 15: 43. [doi](https://doi.org/10.1186/s12992-019-0481-y)
@@ -53,10 +53,8 @@ Herzberger, A., **M.G. Chung**, K. Kapsar, K. Frank, and J. Liu. 2019. Telecoupl
 
 Yang, H., A. Vina, J.A. Winkler, **M.G. Chung**, Y. Dou, F. Wang, J. Zhang, Y. Tang, T. Connor, Z. Zhao, and J. Liu. 2019. Effectiveness of China’s protected areas in reducing deforestation. _Environmental Science and Pollution Research_, 26: 18651-18661. [doi](https://doi.org/10.1007/s11356-019-05232-9) 
 
-### <p style="text-align: center;">-2018</p>
+### <p align="center">-2018</p>
 **Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. [doi](https://doi.org/10.3390/su10124576)
-
-<span data-badge-type="4" data-doi="10.3390/su10124576" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 **Chung, M.G.**, T. Dietz, and J. Liu. 2018. Global relationships between biodiversity and nature-based tourism in protected areas. _Ecosystem Services_, 34: 11-23. [doi](https://doi.org/10.1016/j.ecoser.2018.09.004)
 
@@ -69,7 +67,5 @@ Carlson, A., J. Zaehringer, R. Garrett, R. Felipe, B. Silva, P. Furumo, A.R. Rey
 **Chung, M.G.**, H. Kang, and S.U. Choi. 2015. Assessment of coastal ecosystem services for conservation strategies in South Korea. _PLoS ONE_, 10: e0133856. [doi](https://doi.org/10.1371/journal.pone.0133856) 
 
 **Chung, M.G.** and H. Kang. 2013. A review of ecosystem service studies: Concept, approach and future work in Korea. _Journal of Ecology and Environment_, 36: 1-9. [doi](https://doi.org/10.5141/ecoenv.2013.001) 
-
-
 
 
