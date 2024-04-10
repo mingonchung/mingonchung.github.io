@@ -4,14 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find a full list of my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 
 ## Peer-Reviewed Journal Articles
-
 ### 2024
 **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. [https://doi.org/10.1002/eco.2642](https://doi.org/10.1002/eco.2642)
 
@@ -70,3 +68,7 @@ Carlson, A., J. Zaehringer, R. Garrett, R. Felipe, B. Silva, P. Furumo, A.R. Rey
 **Chung, M.G.**, H. Kang, and S.U. Choi. 2015. Assessment of coastal ecosystem services for conservation strategies in South Korea. _PLoS ONE_, 10: e0133856. [https://doi.org/10.1371/journal.pone.0133856](https://doi.org/10.1371/journal.pone.0133856) 
 
 **Chung, M.G.** and H. Kang. 2013. A review of ecosystem service studies: Concept, approach and future work in Korea. _Journal of Ecology and Environment_, 36: 1-9. [https://doi.org/10.5141/ecoenv.2013.001](https://doi.org/10.5141/ecoenv.2013.001) 
+
+
+
+
