@@ -14,7 +14,7 @@ University of Colorado, Boulder
 Environmental Data Science Innovation & Inclusion Lab
 4001 Discovery Dr Suite S332
 Boulder, CO 80303
-[cv link]
+[cv pdf]
 
 Education
 ======
@@ -25,9 +25,11 @@ Education
 Acadenuc experience
 ======
 **University of Colorado, Boulder** | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)
+
     Postdoctoral Associate    2024-present
 
 **University of California, Merced** | [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)
+
     Postdoctoral Associate    2020-2023
     
     
