@@ -13,6 +13,7 @@ author_profile: true
 <h3 style="text-align: center;">2024</h3>
 
 **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. [doi](https://doi.org/10.1002/eco.2642)
+<span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <h3 style="text-align: center;">2023</h3>
 
@@ -45,6 +46,7 @@ Yang, H., A. Viña, J.A. Winkler, **M.G. Chung**, Q. Huang, Y. Dou, J. Zhang, W.
 Xu, Z., Y. Li, S.N. Chau, T. Dietz, C. Li, L. Wan, J. Zhang, L. Zhang, Y. Li, **M.G. Chung**, and J. Liu. 2020. Impacts of international trade on achieving global sustainable development goals. _Nature Sustainability_. 3: 946-971. [doi](https://doi.org/10.1038/s41893-020-0572-z)
 
 Zhao, Z., M. Cai, T. Connor, **M.G. Chung**, and J. Liu. 2020. Metacoupled tourism and wildlife translocations affect synergies and trade-offs among Sustainable Development Goals across spillover systems. _Sustainability_, 12: 7677. [doi](https://doi.org/10.3390/su12187677)
+
 Zhao, Z., M. Cai, F. Wang, J.A. Winkler, T. Connor, **M.G. Chung**, J. Zhang, H. Yang, Z. Xu, Y. Tang, Z. Ouyang, H. Zhang, and J. Liu. 2020. Synergies and tradeoffs among sustainable development goals across boundaries in a metacoupled world. _Science of the Total Evnrionment_, 751: 141749. [doi](https://doi.org/10.1016/j.scitotenv.2020.141749)
 
 <h3 style="text-align: center;">2019</h3>
@@ -61,7 +63,7 @@ Yang, H., A. Vina, J.A. Winkler, **M.G. Chung**, Y. Dou, F. Wang, J. Zhang, Y. T
 
 <h3 style="text-align: center;">-2018</h3>
 
-**Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. [doi](https://doi.org/10.3390/su10124576) ![Altmetric](https://badges.altmetric.com/?size=15&score=100&doi=10.3390/su10124576) ![Dimensions](https://badge.dimensions.ai/details/doi/10.3390/su10124576.svg)
+**Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. [doi](https://doi.org/10.3390/su10124576)
 
 **Chung, M.G.**, T. Dietz, and J. Liu. 2018. Global relationships between biodiversity and nature-based tourism in protected areas. _Ecosystem Services_, 34: 11-23. [doi](https://doi.org/10.1016/j.ecoser.2018.09.004)
 
