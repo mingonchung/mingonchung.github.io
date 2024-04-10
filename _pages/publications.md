@@ -18,6 +18,7 @@ author_profile: true
     <span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span>
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1002/eco.2642" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 </div>
 
 
