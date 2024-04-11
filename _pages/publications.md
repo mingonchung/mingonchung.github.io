@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+#title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<br>
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find a full list of my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
