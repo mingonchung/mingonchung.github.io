@@ -27,5 +27,7 @@ Boulder, CO 80303<br>
 **University of California, Merced** | [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)<br>
 &ensp; &ensp;         Postdoctoral Associate   &ensp; &ensp;      2020-2023
 
+**Michigan State University** | [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/)<br>
+&ensp; &ensp;         Research Assistant   &ensp; &ensp;      2014-2020
 
 
