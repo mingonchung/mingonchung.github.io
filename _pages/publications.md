@@ -207,7 +207,7 @@ author_profile: true
 </div>
 <br>
 
-<div class="citation-container"<strong>>
+<div class="citation-container">
     13. Zhao, Z., M. Cai, F. Wang, J.A. Winkler, T. Connor, <strong>M.G. Chung</strong>, J. Zhang, H. Yang, Z. Xu, Y. Tang, Z. Ouyang, H. Zhang, and J. Liu. 2020. Synergies and tradeoffs among sustainable development goals across boundaries in a metacoupled world. <em>Science of the Total Evnrionment</em>, 751: 141749.
     <a href="https://doi.org/10.1016/j.scitotenv.2020.141749">doi</a>
     <span style="display: inline-block;">
@@ -389,7 +389,7 @@ author_profile: true
 <h3 style="text-align: center;">2013</h3>
 
 <div class="citation-container">
-  1. Chung, M.G.</strong> and H. Kang. 2013. A review of ecosystem service studies: Concept, approach and future work in Korea. <em>Journal of Ecology and Environment</em>, 36: 1-9. 
+  1. <strong>Chung, M.G.</strong> and H. Kang. 2013. A review of ecosystem service studies: Concept, approach and future work in Korea. <em>Journal of Ecology and Environment</em>, 36: 1-9. 
     <a href="https://doi.org/10.5141/ecoenv.2013.001">doi</a>
     <span style="display: inline-block;">
         <span class="__dimensions_badge_embed__" data-doi="10.5141/ecoenv.2013.001" data-style="small_rectangle"></span>
