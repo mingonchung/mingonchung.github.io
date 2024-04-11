@@ -21,6 +21,15 @@ author_profile: true
     <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 </div>
 
+.citation-container {
+    display: flex;
+    align-items: center;
+}
+
+.citation-container a {
+    margin-right: 5px; /* Adjust spacing as needed */
+}
+
 
 <h3 style="text-align: center;">2023</h3>
 
