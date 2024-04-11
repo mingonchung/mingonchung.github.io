@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Photo here
+![background](../images/background.jpg)
 
 ## Welcome
 
