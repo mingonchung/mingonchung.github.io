@@ -12,11 +12,7 @@ author_profile: true
 
 <h3 style="text-align: center;">2024</h3>
 
-.citation-container {
-    margin-bottom: 5px; /* Adjust this value to increase or decrease the space */
-}
-
-<div class="citation-container">
+<p><div class="citation-container" style="line-height:10px">
     26. <strong>Chung, M.G.</strong>, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. <em>Ecohydrology</em>. e2642. 
     <a href="https://doi.org/10.1002/eco.2642">doi</a>
     <span style="display: inline-block;">
@@ -27,12 +23,11 @@ author_profile: true
         <div data-badge-popover="right" data-badge-type="4" data-doi="10.1002/eco.2642" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
-</div>
+</div></p>
 
 <h3 style="text-align: center;">2023</h3>
 
-
-<div class="citation-container">
+<p><div class="citation-container" style="line-height:10px">
     25. Nyelele, C., C. Keske, <strong>M.G. Chung</strong>, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. <em>Ecological Indicators</em>. 154: 110638.
     <a href="https://doi.org/10.1016/j.ecolind.2023.110638">doi</a>
     <span style="display: inline-block;">
@@ -43,9 +38,9 @@ author_profile: true
         <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.ecolind.2023.110638" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
-</div>
+</div></p>
 
-<div class="citation-container">
+<p><a><div class="citation-container" style="line-height:10px">
     24. Nyelele, C., C. Keske, <strong>M.G. Chung</strong>, H. Guo, and B. Egoh 2023. Using social media data and machine learning to map recreational ecosystem services. <em>Ecological indicators</em>. 154: 110606.
     <a href="https://doi.org/10.1016/j.ecolind.2023.110606">doi</a>
     <span style="display: inline-block;">
@@ -56,7 +51,7 @@ author_profile: true
         <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.ecolind.2023.110606" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
-</div>
+</div></a></p>
 
 <div class="citation-container">
 23. Quesnel Seipp, K., T. Maurer, M. Elias, P. Saksa, C. Keske, K. Oleson, B. Egoh, R. Cleveland, C. Nyelele, N. Goncalves, K. Hemes, P. Wyrsch, D. Lewis, <strong>M.G. Chung</strong>, H. Guo, M. Conklin, and R. Bales. 2023. A multi-benefit framework for funding forest management in fire-driven ecosystems across the Western U.S. <em>Journal of Environmental Management</em>. 344: 118270.
