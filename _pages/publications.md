@@ -25,7 +25,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <h3 style="text-align: center;">2023</h3>
 
@@ -42,7 +42,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
     24. Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh 2023. Using social media data and machine learning to map recreational ecosystem services. _Ecological indicators_. 154: 110606.
@@ -56,7 +56,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
 23. Quesnel Seipp, K., T. Maurer, M. Elias, P. Saksa, C. Keske, K. Oleson, B. Egoh, R. Cleveland, C. Nyelele, N. Goncalves, K. Hemes, P. Wyrsch, D. Lewis, **M.G. Chung**, H. Guo, M. Conklin, and R. Bales. 2023. A multi-benefit framework for funding forest management in fire-driven ecosystems across the Western U.S. _Journal of Environmental Management_. 344: 118270.
@@ -70,7 +70,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
 22. Guo, H., M. Goulden, **M.G. Chung**, C. Nyelele, B. Egoh, C. Keske, M. Conklin, and R. Bales. 2023. Valuing the benefits of forest restoration on enhancing hydropower and water supply in California’s Sierra Nevada. _Science of the Total Environment_. 876: 162836.
@@ -84,7 +84,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <h3 style="text-align: center;">2022</h3>
 
@@ -101,7 +101,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <h3 style="text-align: center;">2021</h3>
 
@@ -118,7 +118,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
 19. **Chung, M.G.**, Y. Li, and J. Liu. 2021. Global red and processed meat trade and non-communicable diseases. _BMJ Global Health_. 6:e006394.
@@ -132,7 +132,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
 18. Yang, H., A. Lingmann-Zielinska, Y. Dou, **M.G. Chung**, J. Zhang, J. Liu. 2021. Complex effects of telecouplings on forest dynamics: an agent-based modeling approach. _Earth Interactions_. 26: 15-27.
@@ -146,7 +146,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
 17. Yang, H., A. Viña, J.A. Winkler, **M.G. Chung**, Q. Huang, Y. Dou, J. Zhang, W. McShea, M. Songer, and J. Liu. 2021. A global assessment of the impact of individual protected areas on preventing forest loss. _Science of the Total Environment_. 777: 145995.
@@ -160,7 +160,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <h3 style="text-align: center;">2020</h3>
 
@@ -177,7 +177,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
     15. Xu, Z., Y. Li, S.N. Chau, T. Dietz, C. Li, L. Wan, J. Zhang, L. Zhang, Y. Li, **M.G. Chung**, and J. Liu. 2020. Impacts of international trade on achieving global sustainable development goals. _Nature Sustainability_. 3: 946-971.
@@ -191,7 +191,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
     14. Zhao, Z., M. Cai, T. Connor, **M.G. Chung**, and J. Liu. 2020. Metacoupled tourism and wildlife translocations affect synergies and trade-offs among Sustainable Development Goals across spillover systems. _Sustainability_, 12: 7677.
@@ -205,7 +205,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
     13. Zhao, Z., M. Cai, F. Wang, J.A. Winkler, T. Connor, **M.G. Chung**, J. Zhang, H. Yang, Z. Xu, Y. Tang, Z. Ouyang, H. Zhang, and J. Liu. 2020. Synergies and tradeoffs among sustainable development goals across boundaries in a metacoupled world. _Science of the Total Evnrionment_, 751: 141749.
@@ -219,7 +219,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 
 <h3 style="text-align: center;">2019</h3>
@@ -237,7 +237,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
    11. **Chung, M.G.** and J. Liu. 2019. Telecoupled impacts of livestock trade on non-communicable diseases. _Globalization and Health_, 15: 43.
@@ -251,7 +251,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 
 <div class="citation-container">
@@ -266,7 +266,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
    9. Herzberger, A., **M.G. Chung**, K. Kapsar, K. Frank, and J. Liu. 2019. Telecoupled food trade affects pericoupled trade and intracoupled production. _Sustainability_, 11: 2908.
@@ -280,7 +280,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 
 <div class="citation-container">
@@ -295,7 +295,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <h3 style="text-align: center;">2018</h3>
 
@@ -311,7 +311,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
    6. **Chung, M.G.**, T. Dietz, and J. Liu. 2018. Global relationships between biodiversity and nature-based tourism in protected areas. _Ecosystem Services_, 34: 11-23. 
@@ -325,7 +325,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
    5. Liu, J., V. Hull, H.C.J. Godfray, D. Tilman, P. Gleick, H. Hoff, C. Pahl-Wostl, Z. Xu, **M.G. Chung**, J. Sun, and S. Li. 2018. Nexus approaches to global sustainable development. _Nature Sustainability_, 1: 466-476. 
@@ -339,7 +339,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
    4. Liu, J., Y. Dou, M. Batistella, E. Challies, T. Connor, C. Friis, J.D.A. Millington, E. Parish, C.L. Romulo, R.F.B. Silva, H. Triezenberg, H. Yang, Z. Zhao, K.S. Zimmerer, F. Huettmann, M.L. Treglia, Z. Basher, **M.G. Chung**, A. Herzberger, A. Lenschow, A. Mechiche-Alami, J. Newig, J. Roche, and J. Sun. 2018. Spillover systems in a telecoupled Anthropocene: typology, methods, and governance for global sustainability. _Current Opinion in Environmental Sustainability_, 33: 58-69.
@@ -353,7 +353,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <div class="citation-container">
   3. Carlson, A., J. Zaehringer, R. Garrett, R. Felipe, B. Silva, P. Furumo, A.R. Rey, A. Torres, **M.G. Chung**, Y. Li, and J. Liu. 2018. Toward rigorous telecoupling causal attribution: A systematic review and typology. _Sustainability_, 10: 4426. 
@@ -367,7 +367,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 <h3 style="text-align: center;">-2017</h3>
 
@@ -384,6 +384,8 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
+<br>
+
 
 <div class="citation-container">
   1. **Chung, M.G.** and H. Kang. 2013. A review of ecosystem service studies: Concept, approach and future work in Korea. _Journal of Ecology and Environment_, 36: 1-9. 
@@ -397,7 +399,7 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
+<br>
 
 
  
