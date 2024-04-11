@@ -13,7 +13,7 @@ author_profile: true
 <h3 style="text-align: center;">2024</h3>
 
 <div class="citation-container">
-    **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. 
+    26. **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. 
     <a href="https://doi.org/10.1002/eco.2642">doi</a>
     <span style="display: inline-block;">
         <span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span>
@@ -28,7 +28,7 @@ author_profile: true
 <h3 style="text-align: center;">2023</h3>
 
 <div class="citation-container">
-    Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. _Ecological Indicators_. 154: 110638. [doi](https://doi.org/10.1016/j.ecolind.2023.110638) 
+    25. Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. _Ecological Indicators_. 154: 110638.
     <a href="https://doi.org/10.1016/j.ecolind.2023.110638">doi</a>
     <span style="display: inline-block;">
         <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolind.2023.110638" data-style="small_rectangle"></span>
@@ -39,7 +39,6 @@ author_profile: true
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     </span>
 </div>
-
 
 Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh 2023. Using social media data and machine learning to map recreational ecosystem services. _Ecological indicators_. 154: 110606. [doi](https://doi.org/10.1016/j.ecolind.2023.110606)
 
