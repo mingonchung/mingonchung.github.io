@@ -20,7 +20,7 @@ Boulder, CO 80303<br>
 2013 M.S. Yonsei University<br>
 2011 B.S. Yonsei University<br>
 
-## Acadenuc experience
+## Academic experience
 **University of Colorado, Boulder** | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)<br>
 &ensp; &ensp;        Postdoctoral Associate   &ensp;  &ensp;     2024-present
 
