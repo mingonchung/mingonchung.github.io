@@ -20,7 +20,7 @@ Boulder, CO 80303<br>
 2013 M.S. Yonsei University<br>
 2011 B.S. Yonsei University<br>
 
-## Academic experience
+## Academic Experience
 **University of Colorado, Boulder** | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)<br>
 &ensp; &ensp;        Postdoctoral Associate   &ensp;  &ensp;     2024-present
 
@@ -30,4 +30,5 @@ Boulder, CO 80303<br>
 **Michigan State University** | [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/)<br>
 &ensp; &ensp;         Research Assistant   &ensp; &ensp;      2014-2020
 
-
+## Awards and Honors
+[ESA Innovation in Sustainability Science Award](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1790), 2020
