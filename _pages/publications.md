@@ -12,6 +12,9 @@ author_profile: true
 
 <h3 style="text-align: center;">2024</h3>
 
+.citation-container {
+    margin-bottom: 5px; /* Adjust this value to increase or decrease the space */
+}
 
 <div class="citation-container">
     26. <strong>Chung, M.G.</strong>, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. <em>Ecohydrology</em>. e2642. 
