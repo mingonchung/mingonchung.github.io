@@ -179,12 +179,48 @@ author_profile: true
 </div>
 
 
+<div class="citation-container">
+    15. Xu, Z., Y. Li, S.N. Chau, T. Dietz, C. Li, L. Wan, J. Zhang, L. Zhang, Y. Li, **M.G. Chung**, and J. Liu. 2020. Impacts of international trade on achieving global sustainable development goals. _Nature Sustainability_. 3: 946-971.
+    <a href="https://doi.org/10.1038/s41893-020-0572-z">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1038/s41893-020-0572-z" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41893-020-0572-z" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
 
-15. Xu, Z., Y. Li, S.N. Chau, T. Dietz, C. Li, L. Wan, J. Zhang, L. Zhang, Y. Li, **M.G. Chung**, and J. Liu. 2020. Impacts of international trade on achieving global sustainable development goals. _Nature Sustainability_. 3: 946-971. [doi](https://doi.org/10.1038/s41893-020-0572-z)
 
-14. Zhao, Z., M. Cai, T. Connor, **M.G. Chung**, and J. Liu. 2020. Metacoupled tourism and wildlife translocations affect synergies and trade-offs among Sustainable Development Goals across spillover systems. _Sustainability_, 12: 7677. [doi](https://doi.org/10.3390/su12187677)
+<div class="citation-container">
+    14. Zhao, Z., M. Cai, T. Connor, **M.G. Chung**, and J. Liu. 2020. Metacoupled tourism and wildlife translocations affect synergies and trade-offs among Sustainable Development Goals across spillover systems. _Sustainability_, 12: 7677.
+    <a href="https://doi.org/10.3390/su12187677">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.3390/su12187677" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.3390/su12187677" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
 
-13. Zhao, Z., M. Cai, F. Wang, J.A. Winkler, T. Connor, **M.G. Chung**, J. Zhang, H. Yang, Z. Xu, Y. Tang, Z. Ouyang, H. Zhang, and J. Liu. 2020. Synergies and tradeoffs among sustainable development goals across boundaries in a metacoupled world. _Science of the Total Evnrionment_, 751: 141749. [doi](https://doi.org/10.1016/j.scitotenv.2020.141749)
+
+<div class="citation-container">
+    13. Zhao, Z., M. Cai, F. Wang, J.A. Winkler, T. Connor, **M.G. Chung**, J. Zhang, H. Yang, Z. Xu, Y. Tang, Z. Ouyang, H. Zhang, and J. Liu. 2020. Synergies and tradeoffs among sustainable development goals across boundaries in a metacoupled world. _Science of the Total Evnrionment_, 751: 141749.
+    <a href="https://doi.org/10.1016/j.scitotenv.2020.141749">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1016/j.scitotenv.2020.141749" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.scitotenv.2020.141749" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
+
 
 <h3 style="text-align: center;">2019</h3>
 
