@@ -8,7 +8,8 @@ redirect_from:
 ---
 Photo here
 
-## Introduction/Biography
+## Welcome
+
 
 ## Area of interest
 
