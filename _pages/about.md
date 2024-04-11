@@ -10,6 +10,6 @@ Photo here
 
 ## Introduction/Biography
 
-## Area of interest/Interests
+## Area of interest
 
 Environmental data science; coupled human and natural systems (CHANS); ecosystem services; sustainability; nature-based solutions; climate mitigation and adaptation
