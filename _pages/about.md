@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![background](../images/background.jpg)
+![background](../images/background_rd.jpg){: .align-center width="300px"}
 
 ## Welcome
 
