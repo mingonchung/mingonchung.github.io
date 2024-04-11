@@ -18,9 +18,9 @@ University of Colorado, Boulder<br>
 Boulder, CO 80303<br>
 
 ## Education
-2020 Ph.D. Michian State University<br>
-2013 M.S. Yonsei University<br>
-2011 B.S. Yonsei University<br>
+2020 &ensp;  &ensp;    Ph.D. Michian State University<br>
+2013 &ensp;  &ensp;    M.S. Yonsei University<br>
+2011 &ensp;  &ensp;    B.S. Yonsei University<br>
 
 ## Academic Experience
 **University of Colorado, Boulder** | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)<br>
