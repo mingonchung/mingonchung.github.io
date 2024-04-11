@@ -8,8 +8,8 @@ author_profile: true
   <div class="wordwrap">You can also find a full list of my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<h2 style="text-align: center;">Peer-Reviewed Journal Articles</h2>
 
-## Peer-Reviewed Journal Articles
 <h3 style="text-align: center;">2024</h3>
 
 <div class="citation-container">
@@ -25,11 +25,21 @@ author_profile: true
     </span>
 </div>
 
-
-
 <h3 style="text-align: center;">2023</h3>
 
-Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. _Ecological Indicators_. 154: 110638. [doi](https://doi.org/10.1016/j.ecolind.2023.110638)
+<div class="citation-container">
+    Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh. 2023. Using social media data to estimate recreational travel costs: A case study from California. _Ecological Indicators_. 154: 110638. [doi](https://doi.org/10.1016/j.ecolind.2023.110638) 
+    <a href="https://doi.org/10.1016/j.ecolind.2023.110638">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolind.2023.110638" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.ecolind.2023.110638" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
 
 Nyelele, C., C. Keske, **M.G. Chung**, H. Guo, and B. Egoh 2023. Using social media data and machine learning to map recreational ecosystem services. _Ecological indicators_. 154: 110606. [doi](https://doi.org/10.1016/j.ecolind.2023.110606)
 
