@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "MinChung_photo_cut.jpg"
   name             : "Min-Gon Chung"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Short biography 2 sentences"
   location         : "Boulder, Colorado"
   employer         : "University of Colorado Boulder"
   uri              : # URL
