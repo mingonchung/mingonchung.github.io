@@ -23,13 +23,13 @@ Boulder, CO 80303<br>
 2011 &ensp;  &ensp;    B.S. Yonsei University<br>
 
 ## Academic Experience
-**University of Colorado, Boulder** | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)<br>
+University of Colorado, Boulder | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)<br>
 &ensp; &ensp;        Postdoctoral Associate   &ensp;  &ensp;     2024-present
 
-**University of California, Merced** | [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)<br>
+University of California, Merced | [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)<br>
 &ensp; &ensp;         Postdoctoral Associate   &ensp; &ensp;      2020-2023
 
-**Michigan State University** | [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/)<br>
+Michigan State University | [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/)<br>
 &ensp; &ensp;         Research Assistant   &ensp; &ensp;      2014-2020
 
 ## Awards and Honors
