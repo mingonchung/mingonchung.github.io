@@ -14,7 +14,7 @@ author_profile: true
 
 <div class="citation-container">
     **Chung, M.G.**, H. Guo, C. Nyelele, B. Egoh, M. Goulden, C. Keske, R. Bales. 2024. Valuation of disturbance on water and carbon fluxes in mixed-conifer mountain forests. _Ecohydrology_. e2642. 
-    <a href="https://doi.org/10.1002/eco.2642">[doi]</a>
+    <a href="https://doi.org/10.1002/eco.2642">doi</a>
     <span style="display: inline-block;">
         <span class="__dimensions_badge_embed__" data-doi="10.1002/eco.2642" data-style="small_rectangle"></span>
         <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
