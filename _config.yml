@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "research keywords"
+title                    : "Sustainability & Data Science"
 title_separator          : "-"
 name                     : &name "Min-Gon Chung"
 description              : &description "personal description"
