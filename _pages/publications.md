@@ -224,33 +224,183 @@ author_profile: true
 
 <h3 style="text-align: center;">2019</h3>
 
-12. **Chung, M.G.**, A. Herzberger, K. Frank, and J. Liu. 2019. International tourism dynamics in a globalized world: A social network analysis approach. _Journal of Travel Research_, 59: 387-403. [doi](https://doi.org/10.1177/0047287519844834)
 
-11. **Chung, M.G.** and J. Liu. 2019. Telecoupled impacts of livestock trade on non-communicable diseases. _Globalization and Health_, 15: 43. [doi](https://doi.org/10.1186/s12992-019-0481-y)
+<div class="citation-container">
+   12. **Chung, M.G.**, A. Herzberger, K. Frank, and J. Liu. 2019. International tourism dynamics in a globalized world: A social network analysis approach. _Journal of Travel Research_, 59: 387-403.
+    <a href="https://doi.org/10.1177/0047287519844834">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1177/0047287519844834" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1177/0047287519844834" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
 
-10. **Chung, M.G.**, H. Kang, T. Dietz, P. Jaimes, and J. Liu. 2019. Activating values for encouraging pro-environmental behavior: The role of religious fundamentalism and willingness to sacrifice. _Journal of Environmental Studies and Sciences_, 9: 371-385. [doi](https://doi.org/10.1007/s13412-019-00562-z)
 
-9. Herzberger, A., **M.G. Chung**, K. Kapsar, K. Frank, and J. Liu. 2019. Telecoupled food trade affects pericoupled trade and intracoupled production. _Sustainability_, 11: 2908. [doi](https://doi.org/10.3390/su11102908)
+<div class="citation-container">
+   11. **Chung, M.G.** and J. Liu. 2019. Telecoupled impacts of livestock trade on non-communicable diseases. _Globalization and Health_, 15: 43.
+    <a href="https://doi.org/10.1186/s12992-019-0481-y">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1186/s12992-019-0481-y" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1186/s12992-019-0481-y" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
 
-8. Yang, H., A. Vina, J.A. Winkler, **M.G. Chung**, Y. Dou, F. Wang, J. Zhang, Y. Tang, T. Connor, Z. Zhao, and J. Liu. 2019. Effectiveness of China’s protected areas in reducing deforestation. _Environmental Science and Pollution Research_, 26: 18651-18661. [doi](https://doi.org/10.1007/s11356-019-05232-9) 
+
+
+<div class="citation-container">
+   10. **Chung, M.G.**, H. Kang, T. Dietz, P. Jaimes, and J. Liu. 2019. Activating values for encouraging pro-environmental behavior: The role of religious fundamentalism and willingness to sacrifice. _Journal of Environmental Studies and Sciences_, 9: 371-385.
+    <a href="https://doi.org/10.1007/s13412-019-00562-z">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1007/s13412-019-00562-z" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s13412-019-00562-z" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
+
+<div class="citation-container">
+   9. Herzberger, A., **M.G. Chung**, K. Kapsar, K. Frank, and J. Liu. 2019. Telecoupled food trade affects pericoupled trade and intracoupled production. _Sustainability_, 11: 2908.
+    <a href="https://doi.org/10.3390/su11102908">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.3390/su11102908" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.3390/su11102908" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
+
+
+<div class="citation-container">
+   8. Yang, H., A. Vina, J.A. Winkler, **M.G. Chung**, Y. Dou, F. Wang, J. Zhang, Y. Tang, T. Connor, Z. Zhao, and J. Liu. 2019. Effectiveness of China’s protected areas in reducing deforestation. _Environmental Science and Pollution Research_, 26: 18651-18661. 
+    <a href="https://doi.org/10.1007/s11356-019-05232-9">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1007/s11356-019-05232-9" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s11356-019-05232-9" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
 
 <h3 style="text-align: center;">2018</h3>
 
-7. **Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. [doi](https://doi.org/10.3390/su10124576)
+<div class="citation-container">
+   7. **Chung, M.G.**, T. Pan, X. Zou, and J. Liu. 2018. Complex interrelationships between ecosystem services supply and tourism demand: General framework and evidence from the origin of three Asian rivers. _Sustainability_, 10: 4576. 
+    <a href="https://doi.org/10.3390/su10124576">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.3390/su10124576" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.3390/su10124576" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
 
-6. **Chung, M.G.**, T. Dietz, and J. Liu. 2018. Global relationships between biodiversity and nature-based tourism in protected areas. _Ecosystem Services_, 34: 11-23. [doi](https://doi.org/10.1016/j.ecoser.2018.09.004)
 
-5. Liu, J., V. Hull, H.C.J. Godfray, D. Tilman, P. Gleick, H. Hoff, C. Pahl-Wostl, Z. Xu, **M.G. Chung**, J. Sun, and S. Li. 2018. Nexus approaches to global sustainable development. _Nature Sustainability_, 1: 466-476. [doi](https://doi.org/10.1038/s41893-018-0135-8)
+<div class="citation-container">
+   6. **Chung, M.G.**, T. Dietz, and J. Liu. 2018. Global relationships between biodiversity and nature-based tourism in protected areas. _Ecosystem Services_, 34: 11-23. 
+    <a href="https://doi.org/10.1016/j.ecoser.2018.09.004">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecoser.2018.09.004" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.ecoser.2018.09.004" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
 
-4. Liu, J., Y. Dou, M. Batistella, E. Challies, T. Connor, C. Friis, J.D.A. Millington, E. Parish, C.L. Romulo, R.F.B. Silva, H. Triezenberg, H. Yang, Z. Zhao, K.S. Zimmerer, F. Huettmann, M.L. Treglia, Z. Basher, **M.G. Chung**, A. Herzberger, A. Lenschow, A. Mechiche-Alami, J. Newig, J. Roche, and J. Sun. 2018. Spillover systems in a telecoupled Anthropocene: typology, methods, and governance for global sustainability. _Current Opinion in Environmental Sustainability_, 33: 58-69. [doi](https://doi.org/10.1016/j.cosust.2018.04.009)
 
-3. Carlson, A., J. Zaehringer, R. Garrett, R. Felipe, B. Silva, P. Furumo, A.R. Rey, A. Torres, **M.G. Chung**, Y. Li, and J. Liu. 2018. Toward rigorous telecoupling causal attribution: A systematic review and typology. _Sustainability_, 10: 4426. [doi](https://doi.org/10.3390/su10124426) 
+<div class="citation-container">
+   5. Liu, J., V. Hull, H.C.J. Godfray, D. Tilman, P. Gleick, H. Hoff, C. Pahl-Wostl, Z. Xu, **M.G. Chung**, J. Sun, and S. Li. 2018. Nexus approaches to global sustainable development. _Nature Sustainability_, 1: 466-476. 
+    <a href="https://doi.org/10.1038/s41893-018-0135-8">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1038/s41893-018-0135-8" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41893-018-0135-8" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
+
+<div class="citation-container">
+   4. Liu, J., Y. Dou, M. Batistella, E. Challies, T. Connor, C. Friis, J.D.A. Millington, E. Parish, C.L. Romulo, R.F.B. Silva, H. Triezenberg, H. Yang, Z. Zhao, K.S. Zimmerer, F. Huettmann, M.L. Treglia, Z. Basher, **M.G. Chung**, A. Herzberger, A. Lenschow, A. Mechiche-Alami, J. Newig, J. Roche, and J. Sun. 2018. Spillover systems in a telecoupled Anthropocene: typology, methods, and governance for global sustainability. _Current Opinion in Environmental Sustainability_, 33: 58-69.
+    <a href="https://doi.org/10.1016/j.cosust.2018.04.009">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1016/j.cosust.2018.04.009" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.cosust.2018.04.009" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
+
+<div class="citation-container">
+  3. Carlson, A., J. Zaehringer, R. Garrett, R. Felipe, B. Silva, P. Furumo, A.R. Rey, A. Torres, **M.G. Chung**, Y. Li, and J. Liu. 2018. Toward rigorous telecoupling causal attribution: A systematic review and typology. _Sustainability_, 10: 4426. 
+    <a href="https://doi.org/10.3390/su10124426">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.3390/su10124426" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.3390/su10124426" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
 
 <h3 style="text-align: center;">-2017</h3>
 
-2. **Chung, M.G.**, H. Kang, and S.U. Choi. 2015. Assessment of coastal ecosystem services for conservation strategies in South Korea. _PLoS ONE_, 10: e0133856. [doi](https://doi.org/10.1371/journal.pone.0133856) 
 
-1. **Chung, M.G.** and H. Kang. 2013. A review of ecosystem service studies: Concept, approach and future work in Korea. _Journal of Ecology and Environment_, 36: 1-9. [doi](https://doi.org/10.5141/ecoenv.2013.001) 
+<div class="citation-container">
+  2. **Chung, M.G.**, H. Kang, and S.U. Choi. 2015. Assessment of coastal ecosystem services for conservation strategies in South Korea. _PLoS ONE_, 10: e0133856.   
+    <a href="https://doi.org/10.1371/journal.pone.0133856">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0133856" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pone.0133856" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
+<div class="citation-container">
+  1. **Chung, M.G.** and H. Kang. 2013. A review of ecosystem service studies: Concept, approach and future work in Korea. _Journal of Ecology and Environment_, 36: 1-9. 
+    <a href="https://doi.org/10.5141/ecoenv.2013.001">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.5141/ecoenv.2013.001" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.5141/ecoenv.2013.001" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div>
+
+
+
+ 
 
 
 
