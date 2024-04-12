@@ -16,8 +16,8 @@ The world is increasingly interconnected environmentally and socioeconomically t
 ![CHANSframework](../images/CHANS_Telecoupling_framework.png){: .align-center width="800px"}
 
 
-## Water-carbon coupling; WFE nuxus; engagement
+## Ecosystem Service Flows
 
-## Nature-based solutions for sustainable ecosystem services management
+## Nature-based solutions
 
-## Distant flows of ecosystem services
+## Humans
