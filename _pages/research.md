@@ -26,7 +26,12 @@ With rapid economic and population growth, the increasing separation between whe
 
 Nature-based solutions (NbS) become crucial for natural and working lands to sustain environmental and socioeconomic benefits under increasing anthropogenic pressures. Nature-based solutions exist everywhere in various forms such as protected areas and urban green space, yet little research has examined how existing nature-based solutions provide multiple benefits of ecosystem services beyond their initial objectives. This project examines the diverse roles of nature-based solutions in sustaining essential ecosystem services and how these changes affect human systems from global to local levels.
 
-![NbSnetwork](../images/Chung_et_al_2021_NS_network.png){: .align-center width="700px"}[Chung et al, Nature Sustainability, 2021](https://www.nature.com/articles/s41893-021-00786-4)
+<p align="center">
+ <img src="../images/Chung_et_al_2021_NS_network.png" width="700px" alt="NbSnetwork">
+ <br>
+ <span style="float: right;"><a href="https://www.nature.com/articles/s41893-021-00786-4">[Chung et al, Nature Sustainability, 2021]</a></span>
+</p>
+
 
 ## Impacts on humans
 
