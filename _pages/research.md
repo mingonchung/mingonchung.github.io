@@ -36,6 +36,8 @@ Nature-based solutions (NbS) become crucial for natural and working lands to sus
 ## Impacts on humans
 
 
-
-
-![TradeHealth](../images/Chung_et_al_2021_bmjgh_health.png){: .align-center width="800px"}[Chung et al, BMJ Global Health, 2021](https://gh.bmj.com/content/6/11/e006394.abstract)
+<p align="center">
+ <img src="../images/Chung_et_al_2021_bmjgh_health.png" width="800px" alt="TradeHealth">
+ <br>
+ <span style="float: right;"><a href="https://gh.bmj.com/content/6/11/e006394.abstract">[Chung et al, BMJ Global Health, 2021]</a></span>
+</p>
