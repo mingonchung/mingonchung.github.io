@@ -24,11 +24,11 @@ The world is increasingly interconnected environmentally and socioeconomically t
 
 
 
-![NbSnetwork](../images/Chung_et_al_2021_NS_network.png){: .align-center width="700px"}
+![NbSnetwork](../images/Chung_et_al_2021_NS_network.png){: .align-center width="700px"}[Chung et al, Nature Sustainability, 2021](https://www.nature.com/articles/s41893-021-00786-4)
 
 ## Impacts on humans
 
 
 
 
-![TradeHealth](../images/Chung_et_al_2021_bmjgh_health.png){: .align-center width="800px"}
+![TradeHealth](../images/Chung_et_al_2021_bmjgh_health.png){: .align-center width="800px"}[Chung et al, BMJ Global Health, 2021](https://gh.bmj.com/content/6/11/e006394.abstract)
