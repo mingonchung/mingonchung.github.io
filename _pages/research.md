@@ -14,7 +14,7 @@ The world is increasingly interconnected environmentally and socioeconomically t
 ![CHANSframework](../images/CHANS_Telecoupling_framework.png){: .align-center width="800px"}
 
 
-## Ecosystem Service Flows
+## Ecosystem service flows
 
 ## Nature-based solutions
 
