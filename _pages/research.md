@@ -16,8 +16,11 @@ The world is increasingly interconnected environmentally and socioeconomically t
 
 With rapid economic and population growth, the increasing separation between where ecosystem services are needed and from where they are supplied complicates the management of multiple ecosystem services. Increasing demands for ecosystem services across regions can accelerate ecosystem service flows yet also damage the capacity to provide these services in supply areas. This project investigates ecosystem service flows such as freshwater, food, nature-based tourism, and air pollution as well as their interactions with biodiversity, human well-being, and nature-based solutions.
 
-![FoodFlow](../images/Chung_Liu_2022_NF_flow_map.png){: .align-center width="600px"}[Chung and Liu, Nature Food, 2022](https://www.nature.com/articles/s43016-022-00499-7){: align-right}
-
+<p align="center">
+ <img src="../images/Chung_Liu_2022_NF_flow_map.png" width="600px" alt="FoodFlow">
+ <br>
+ <span style="float: right;">[Chung and Liu, Nature Food, 2022](https://www.nature.com/articles/s43016-022-00499-7)</span>
+</p>
 
 ## Nature-based solutions
 
