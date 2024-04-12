@@ -19,7 +19,7 @@ With rapid economic and population growth, the increasing separation between whe
 <p align="center">
  <img src="../images/Chung_Liu_2022_NF_flow_map.png" width="600px" alt="FoodFlow">
  <br>
- <span style="float: right;">[Chung and Liu, Nature Food, 2022](https://www.nature.com/articles/s43016-022-00499-7)</span>
+ <span style="float: right;"><a href="https://www.nature.com/articles/s43016-022-00499-7">[Chung and Liu, Nature Food, 2022]</a></span>
 </p>
 
 ## Nature-based solutions
