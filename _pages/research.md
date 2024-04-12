@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-The world is increasingly interconnected environmentally and socioeconomically through various flows such as the movement of goods, services, people, and capital. These flows have enormous impacts on biodiversity, ecosystem services, and sustainable development worldwide. However, little research has been systematically conducted on such flows across multiple coupled human and natural systems simultaneously. In this effort, I apply the frameworks of coupled human and natural systems and telecoupling (human-nature interactions between distant systems). My long-term research goal is to help reduce the negative impacts of ecosystem service flows on both people and the environment through the implementation of landscape planning and cross-border policies.
+The world is increasingly interconnected environmentally and socioeconomically through various flows such as the movement of goods, services, people, and capital. These flows have enormous impacts on biodiversity, ecosystem services, and sustainable development worldwide. However, little research has been systematically conducted on such flows across multiple coupled human and natural systems simultaneously. In response, I use the frameworks of coupled human and natural systems and telecoupling (human-nature interactions between distant systems). My long-term research goal is to help mitigate the negative impacts of ecosystem service flows on both people and the environment through the implementation of pro-active landscape planning and cross-border policies.
 
 ![CHANSframework](../images/CHANS_Telecoupling_framework.png){: .align-center width="800px"}
 
 ## Ecosystem service flows
 
-
+With rapid economic and population growth, the increasing separation between where ecosystem services are needed and from where they are supplied complicates the management of multiple ecosystem services. Increasing demands for ecosystem services across regions can accelerate ecosystem service flows yet also damage the capacity to provide these services in supply areas. This project investigates ecosystem service flows such as freshwater, food, nature-based tourism, and air pollution as well as their interactions with biodiversity, human well-being, and nature-based solutions.
 
 ![FoodFlow](../images/Chung_Liu_2022_NF_flow_map.png){: .align-center width="600px"}[Chung and Liu, Nature Food, 2022](https://www.nature.com/articles/s43016-022-00499-7)
 
