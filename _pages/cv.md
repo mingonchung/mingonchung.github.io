@@ -13,6 +13,7 @@ University of Colorado, Boulder<br>
 4001 Discovery Dr Suite S332<br>
 Boulder, CO 80303<br>
 
+<br>
 {% include base_path %}
 For a detailed overview, download my full CV [here](../files/CV_Min_Gon_Chung_Apr_2024.pdf).
 
