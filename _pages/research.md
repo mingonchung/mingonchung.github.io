@@ -11,7 +11,7 @@ The world is increasingly interconnected environmentally and socioeconomically t
 
 ![CHANSframework](../images/CHANS_Telecoupling_framework.png){: .align-center width="800px"}
 
-## Ecosystem service flows
+<h2 style="text-align: center;">Ecosystem service flows</h2>
 
 With rapid economic and population growth, the increasing separation between where ecosystem services are needed and from where they are supplied complicates the management of multiple ecosystem services. Increasing demands for ecosystem services across regions can accelerate ecosystem service flows yet also damage the capacity to provide these services in supply areas. This project investigates ecosystem service flows such as freshwater, food, nature-based tourism, and air pollution as well as their interactions with biodiversity, human well-being, and nature-based solutions.
 
@@ -21,7 +21,7 @@ With rapid economic and population growth, the increasing separation between whe
  <span style="float: right;"><a href="https://www.nature.com/articles/s43016-022-00499-7">Chung and Liu, Nature Food, 2022</a></span>
 </p>
 
-## Nature-based solutions
+<h2 style="text-align: center;">Nature-based solutions flows</h2>
 
 Nature-based solutions (NbS) become crucial for natural and working lands to sustain environmental and socioeconomic benefits under increasing anthropogenic pressures. Nature-based solutions exist everywhere in various forms such as protected areas and urban green space, yet little research has examined how existing nature-based solutions provide multiple benefits of ecosystem services beyond their initial objectives. This project examines the diverse roles of nature-based solutions in sustaining essential ecosystem services and how these changes affect human systems from global to local levels.
 
@@ -31,8 +31,7 @@ Nature-based solutions (NbS) become crucial for natural and working lands to sus
  <span style="float: right;"><a href="https://www.nature.com/articles/s41893-021-00786-4">Chung et al, Nature Sustainability, 2021</a></span>
 </p>
 
-
-## Impacts on humans
+<h2 style="text-align: center;">Impacts on humans</h2>
 
 By assessing changes in ecosystem service flows to different beneficiaries across diverse nature-based solutions, my research project identifies a) how multiple ecosystem services are simultaneously managed to provide benefits for various beneficiaries and b) to whom subsidies are paid for ecosystem service restoration and risk reduction for climate change. Using engagement methods including social surveys, interactive workshops, and in-depth interviews, I examine which types of nature-based solutions are acceptable to local communities and how future adaptive management can produce essential ecosystem services for diverse stakeholders under global environmental changes.
 
