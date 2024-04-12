@@ -16,9 +16,12 @@ The world is increasingly interconnected environmentally and socioeconomically t
 
 ## Ecosystem service flows
 
+![FoodFlow](../images/Chung_Liu_2022_NF_flow_map.png){: .align-center width="800px"}
 
 ## Nature-based solutions
 
+![NbSnetwork](../images/Chung_et_al_2021_NS_network.png){: .align-center width="800px"}
 
 ## Humans
 
+![TradeHealth](../images/Chung_et_al_2021_bmjgh_health.jpg){: .align-center width="800px"}
