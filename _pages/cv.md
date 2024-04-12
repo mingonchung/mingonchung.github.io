@@ -7,15 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-For a detailed overview, download my full CV [here](../files/CV_Min_Gon_Chung_Apr_2024.pdf).
-
-
 ## Contact Information
 Environmental Data Science Innovation & Inclusion Lab<br>
 University of Colorado, Boulder<br>
 4001 Discovery Dr Suite S332<br>
 Boulder, CO 80303<br>
+
+{% include base_path %}
+For a detailed overview, download my full CV [here](../files/CV_Min_Gon_Chung_Apr_2024.pdf).
 
 ## Education
 2020 &ensp;  &ensp;    Ph.D. Michian State University<br>
