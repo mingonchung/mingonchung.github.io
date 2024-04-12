@@ -24,4 +24,4 @@ The world is increasingly interconnected environmentally and socioeconomically t
 
 ## Humans
 
-![TradeHealth](../images/Chung_et_al_2021_bmjgh_health.jpg){: .align-center width="800px"}
+![TradeHealth](../images/Chung_et_al_2021_bmjgh_health.png){: .align-center width="800px"}
