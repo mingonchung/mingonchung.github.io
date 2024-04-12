@@ -26,7 +26,7 @@ author:
   avatar           : "MinChung_photo_cut.jpg"
   name             : "Min-Gon Chung"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "I specialize in interdisciplinary systems modeling to address global environmental challenges, assessing ecosystem service flows with advanced methods like remote sensing and machine learning, aiming to promote equitable access for disadvantaged communities."
+  bio              : 
   location         : "Boulder, Colorado"
   employer         : "University of Colorado Boulder"
   uri              : # URL
