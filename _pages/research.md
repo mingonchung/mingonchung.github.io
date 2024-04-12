@@ -19,7 +19,7 @@ With rapid economic and population growth, the increasing separation between whe
 <p align="center">
  <img src="../images/Chung_Liu_2022_NF_flow_map.png" width="600px" alt="FoodFlow">
  <br>
- <span style="float: right;"><a href="https://www.nature.com/articles/s43016-022-00499-7">[Chung and Liu, Nature Food, 2022]</a></span>
+ <span style="float: right;"><a href="https://www.nature.com/articles/s43016-022-00499-7">Chung and Liu, Nature Food, 2022</a></span>
 </p>
 
 ## Nature-based solutions
@@ -29,7 +29,7 @@ Nature-based solutions (NbS) become crucial for natural and working lands to sus
 <p align="center">
  <img src="../images/Chung_et_al_2021_NS_network.png" width="700px" alt="NbSnetwork">
  <br>
- <span style="float: right;"><a href="https://www.nature.com/articles/s41893-021-00786-4">[Chung et al, Nature Sustainability, 2021]</a></span>
+ <span style="float: right;"><a href="https://www.nature.com/articles/s41893-021-00786-4">Chung et al, Nature Sustainability, 2021</a></span>
 </p>
 
 
@@ -39,5 +39,5 @@ Nature-based solutions (NbS) become crucial for natural and working lands to sus
 <p align="center">
  <img src="../images/Chung_et_al_2021_bmjgh_health.png" width="800px" alt="TradeHealth">
  <br>
- <span style="float: right;"><a href="https://gh.bmj.com/content/6/11/e006394.abstract">[Chung et al, BMJ Global Health, 2021]</a></span>
+ <span style="float: right;"><a href="https://gh.bmj.com/content/6/11/e006394.abstract">Chung et al, BMJ Global Health, 2021</a></span>
 </p>
