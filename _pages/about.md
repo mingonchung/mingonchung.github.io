@@ -25,4 +25,4 @@ I am an environmental and sustainability researcher specializing in interdiscipl
 
 ## Area of interest
 
-Environmental data science; coupled human and natural systems (CHANS); ecosystem services; sustainability; nature-based solutions; climate mitigation and adaptation
+Open data science; coupled human and natural systems (CHANS); ecosystem services; sustainability; nature-based solutions; climate mitigation and adaptation
