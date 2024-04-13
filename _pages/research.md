@@ -7,6 +7,16 @@ redirect_from:
   - /research
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2QHZKG68W9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2QHZKG68W9');
+</script>
+
 The world is increasingly interconnected environmentally and socioeconomically through various flows such as the movement of goods, services, people, and capital. These flows have enormous impacts on biodiversity, ecosystem services, and sustainable development worldwide. However, little research has been systematically conducted on such flows across multiple coupled human and natural systems simultaneously. In response, I use the frameworks of coupled human and natural systems and telecoupling (human-nature interactions between distant systems). My long-term research goal is to help mitigate the negative impacts of ecosystem service flows on both people and the environment through the implementation of pro-active landscape planning and cross-border policies.
 
 ![CHANSframework](../images/CHANS_Telecoupling_framework.png){: .align-center width="800px"}
