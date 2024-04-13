@@ -42,7 +42,7 @@ Nature-based solutions (NbS) become crucial for natural and working lands to sus
 By assessing changes in ecosystem service flows to different beneficiaries across diverse nature-based solutions, my research project identifies a) how multiple ecosystem services are simultaneously managed to provide benefits for various beneficiaries and b) to whom subsidies are paid for ecosystem service restoration and risk reduction for climate change. Using engagement methods including social surveys, interactive workshops, and in-depth interviews, I examine which types of nature-based solutions are acceptable to local communities and how future adaptive management can produce essential ecosystem services for diverse stakeholders under global environmental changes.
 
 <p align="center">
- <img src="../images/Chung_et_al_2021_bmjgh_health.png" width="800px" alt="TradeHealth">
+ <img src="../images/Chung_et_al_2021_bmjgh_health.png" width="900px" alt="TradeHealth">
  <br>
  <span style="float: right;"><a href="https://gh.bmj.com/content/6/11/e006394.abstract">Chung et al, BMJ Global Health, 2021</a></span>
 </p>
