@@ -27,7 +27,7 @@
     {% endif %}
 
 <h2 class="archive__item-title" itemprop="headline">
- <div class="centered-title">
+ <div class="centered-title" style="text-align:center;">
     {% if post.link %}
       <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
     {% else %}
@@ -35,10 +35,6 @@
     {% endif %}
  </div>
 </h2>
-
-.centered-title {
- text-align: center;
-}
 
     
     {% if post.read_time %}
