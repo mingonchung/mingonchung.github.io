@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : >
+title                    : |
  Sustainability &
- Data Science
+ Ecosystem Integration
 title_separator          : "-"
 name                     : &name "Min-Gon Chung"
 description              : &description "personal description"
