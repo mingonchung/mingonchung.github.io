@@ -10,6 +10,7 @@
 locale                   : "en-US"
 title                    : "Sustainability &<br>Ecosystem Integration"
 title_separator          : "-"
+center_title             : true
 name                     : &name "Min-Gon Chung"
 description              : &description "personal description"
 url                      : https://mingonchung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
