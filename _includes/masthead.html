@@ -8,7 +8,7 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg" style="text-align: center;">
             <a href="{{ base_path }}/">
-             {% assign title_parts = site.title | split: '&' %}
+             {% assign title_parts = site.title | split: '*' %}
              {{ title_parts[0] }}<br>{{ title_parts[1] }}
             </a>
           </li>
