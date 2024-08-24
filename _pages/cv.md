@@ -29,7 +29,7 @@ Boulder, CO 80303<br>
 
 
 ## Education
-2020 &ensp;  &ensp;    Ph.D. Michian State University<br>
+2020 &ensp;  &ensp;    Ph.D. Michigan State University<br>
 2013 &ensp;  &ensp;    M.S. Yonsei University<br>
 2011 &ensp;  &ensp;    B.S. Yonsei University<br>
 
