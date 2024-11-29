@@ -21,7 +21,7 @@ redirect_from:
 
 ## Welcome
 
-I work in sustainability and environmental data science, specializing in interdisciplinary systems modeling to address complex issues within coupled human and natural systems. My research centers on assessing ecosystem service flows and their interactions with nature-based solutions, biodiversity, human demands, and global environmental changes. My overall research objectives aim to promote the equitable distribution of ecosystem services for disadvantaged communities. Operating at regional and global levels, I use advanced spatial and statistical methods (e.g., remote sensing, GIS, network modeling, and machine learning), integrating interdisciplinary and cross-sectoral open data. Data harmonization and analyses are performed on high-performance computing clusters using open-source software.
+I work in environmental and sustainability science, specializing in interdisciplinary systems modeling to address complex global environmental challenges. My research employs the telecoupling framework to investigate the distant impacts of climate-related extremes on essential ecosystem services and how these impacts on human well-being can be mitigated by nature-based solutions. My overall research objectives aim to promote equitable and sustainable management strategies that enhance community resilience. Operating at both regional and global levels, I integrate advanced spatial and statistical methods (e.g., remote sensing, GIS, network modeling, econometrics, and machine learning) into coupled systems modeling using big, interdisciplinary open data. Data harmonization and analyses are performed on high-performance computing clusters with open-source software.
 
 ## Area of interest
 
