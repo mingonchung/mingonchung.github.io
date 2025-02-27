@@ -8,12 +8,12 @@ main:
     
   - title: "Publications"
     url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/   
 
   - title: "CV"
-    url: /cv/   
-    
-  #- title: "Teaching"
-  #  url: /teaching/    
+    url: /cv/    
       
   #- title: "News"
   #  url: /year-archive/
