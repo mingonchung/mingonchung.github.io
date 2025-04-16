@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 {% include base_path %}
-For a detailed overview, download my full CV [here](../files/CV_Min_Gon_Chung_Oct_2024.pdf).
+For a detailed overview, download my full CV [here](../files/CV_Min_Gon_Chung_2025.pdf).
 
 
 ## Contact Information
