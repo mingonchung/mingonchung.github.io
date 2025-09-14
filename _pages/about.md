@@ -21,7 +21,7 @@ redirect_from:
 
 ## Welcome
 
-I am a postdoctoral associate at the Environmental Data Science Innovation & Inclusion Lab (ESIIL) at the University of Colorado Boulder. I work in environmental and sustainability science, specializing in interdisciplinary systems modeling to address complex human-environment interactions. My research integrates the telecoupling framework with environmental data science to investigate the impacts of climate-related extremes on ecosystem service flows and how these impacts can be mitigated by nature-based solutions. My overall research aims to promote equitable and sustainable management strategies that enhance community resilience. My interdisciplinary approach integrates open-source datasets and advanced data science techniques to enhance science-based information for managing ecosystem services across multiple scales.
+I am a postdoctoral associate at the Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder. As a sustainability scientist, I leverage environmental data science to investigate the complex dynamics of coupled human and natural systems. My research examines how anthropogenic environmental change alters ecosystem services and how nature-based solutions can mitigate these impacts. Using open, cross-sector data, I integrate advanced data science techniques within systems modeling. My overall research aims to promote equitable and sustainable management strategies for disadvantaged communities through informed landscape planning and cross-border management.
 
 ## Area of interest
 
