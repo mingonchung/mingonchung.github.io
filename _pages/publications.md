@@ -21,6 +21,21 @@ author_profile: true
 
 <h2 style="text-align: center;">Peer-Reviewed Journal Articles</h2>
 
+<h3 style="text-align: center;">2025</h3>
+
+<p><div class="citation-container" style="line-height:20px">
+    27. Guo, H., M. Goulden, <strong>M.G. Chung</strong>, Q. Xu, C. Nyelele, W. Guo, B. Egoh, M. Conklin, C. Keske, M. Safeeq, and R. Bales. 2025. Valuing co-benefits of fire regulation through forest restoration in wildfire-vulnerable forests. <em>Science of the Total Environment</em>. 1001: 180487. 
+    <a href="https://doi.org/10.1016/j.scitotenv.2025.180487">doi</a>
+    <span style="display: inline-block;">
+        <span class="__dimensions_badge_embed__" data-doi="10.1016/j.scitotenv.2025.180487" data-style="small_rectangle"></span>
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </span>
+    <span style="display: inline-block;">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.scitotenv.2025.180487" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    </span>
+</div></p>
+
 <h3 style="text-align: center;">2024</h3>
 
 <p><div class="citation-container" style="line-height:20px">
