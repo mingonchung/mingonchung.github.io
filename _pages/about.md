@@ -21,7 +21,7 @@ redirect_from:
 
 ## Welcome
 
-I am a postdoctoral associate at the Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder. As a sustainability scientist, I leverage environmental data science to investigate the complex dynamics of coupled human and natural systems. My research examines how anthropogenic environmental change alters ecosystem services and how nature-based solutions can mitigate these impacts. Using open, cross-sector data, I integrate advanced data science techniques into systems modeling. My overall research aims to promote equitable and sustainable management strategies for disadvantaged communities through informed landscape planning and cross-border management.
+I am a postdoctoral associate at the Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder. As a sustainability scientist, I leverage environmental data science to investigate the complex dynamics of coupled human and natural systems. My research examines how anthropogenic environmental change alters ecosystem services and how nature-based solutions can mitigate these impacts. Using open, cross-sector data, I integrate advanced data science techniques into systems modeling. My research aims to promote equitable and sustainable management strategies for disadvantaged communities through informed landscape planning and cross-border management.
 
 ## Area of interest
 
