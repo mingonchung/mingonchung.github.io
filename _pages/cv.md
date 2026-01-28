@@ -35,7 +35,7 @@ Boulder, CO 80303<br>
 
 
 ## Academic Experience
-University of Colorado, Boulder | [Environmental Data Science Innovation & Inclusion Lab](https://esiil.org/)<br>
+University of Colorado, Boulder | [Environmental Data Science Innovation & Impact Lab](https://esiil.org/)<br>
 &ensp; &ensp;        Postdoctoral Associate   &ensp;  &ensp;     2024-present
 
 University of California, Merced | [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)<br>
