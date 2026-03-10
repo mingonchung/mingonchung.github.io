@@ -12,10 +12,10 @@ For a detailed overview, download my full CV [here](../files/CV_Min_Gon_Chung_Ja
 
 
 ## Contact Information
-- Environmental Data Science Innovation & Inclusion Lab
-- University of Colorado Boulder
-- 4001 Discovery Dr Suite S332
-- Boulder, CO 80303
+Environmental Data Science Innovation & Inclusion Lab
+University of Colorado Boulder
+4001 Discovery Dr Suite S332
+Boulder, CO 80303
 
 
 ## Education
