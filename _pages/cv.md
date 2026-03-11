@@ -27,7 +27,7 @@ University of Colorado Boulder
 ## Academic Experience
 **University of Colorado Boulder**, [Environmental Data Science Innovation & Impact Lab](https://esiil.org/)  
 Postdoctoral Associate (2024–present)  
-**University of California, Merced**, [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)  
+**University of California Merced**, [Center for Ecosystem Climate Solutions](https://california-ecosystem-climate.solutions/)  
 Postdoctoral Associate (2020–2023)  
 **Michigan State University**, [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/)  
 Research Assistant (2014–2020)
